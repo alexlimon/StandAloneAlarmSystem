@@ -1,9 +1,6 @@
 /*******************************
  * Name: Alex Limon
- * Student ID#: 1000818599
- * Lab Day: Mondays
- * CSE 3442/5442 - Embedded Systems 1
- * Lab 7 (ABET): Building a PIC18F4520 Standalone Alarm System with EUSART Communication 
+ * Building a PIC18F4520 Standalone Alarm System with EUSART Communication 
  ********************************/
 
 
